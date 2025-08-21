@@ -1,0 +1,16 @@
+# Ignore data (too large for GitHub)
+data/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment files (conda/venv)
+.venv/
+*.env
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
